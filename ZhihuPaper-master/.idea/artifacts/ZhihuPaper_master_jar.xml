@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ZhihuPaper-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZhihuPaper_master_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ZhihuPaper-master.jar">
+        <element id="module-output" name="ZhihuPaper-master" />
+      </element>
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>
